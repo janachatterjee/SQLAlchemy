@@ -150,7 +150,7 @@ Use Flask jsonify to convert your API data into a valid JSON response object.
 
 Optional: Other Recommended Analyses
 
-The following are optional challenge queries. These are highly recommended to attempt, but not required for the homework.
+The following are optional challenge queries. 
 
 
 Temperature Analysis
